@@ -2,7 +2,7 @@
 
 // author: Filin I.A.
 // functional: clock devider testbench
-// last revision: 18.03.24
+// last revision: 19.03.24
 
 module testbench_clock_divider();
 
