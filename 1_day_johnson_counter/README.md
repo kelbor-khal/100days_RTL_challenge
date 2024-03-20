@@ -1,9 +1,9 @@
-# Cloc devider
+# Johnson counter
 
 This device is sequence of triggers. The input of the initial trigger is connected to the inverting output of the last trigger.
 
 <figure>
-  <img src="../diagramms/1_day_johnson_counter.png">
+  <img src="../diagramms/1_day_johson_counter.png">
   <figcaption align="center" font-style="italic"> Picture 1.1 - Time diagramms johnson counter </figcaption>
 </figure>
 
