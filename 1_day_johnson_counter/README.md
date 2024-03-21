@@ -7,7 +7,7 @@ This device is sequence of triggers. The input of the initial trigger is connect
   <figcaption align="center" font-style="italic"> Picture 1.1 - Time diagramms johnson counter </figcaption>
 </figure>
 
-The table 0.1 shows the signals owned by module johnson counter
+The table 1.1 shows the signals owned by module johnson counter
 
 ### *Table 1.1 - Signals johnson counter* 
 | Number   | type signals    | Name signals  | Description signals        |
